@@ -1,14 +1,6 @@
 {"frames": [
 
 {
-	"filename": "js-conf-logo.png",
-	"frame": {"x":0,"y":331,"w":731,"h":457},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":731,"h":457},
-	"sourceSize": {"w":731,"h":457}
-},
-{
 	"filename": "logo.png",
 	"frame": {"x":178,"y":0,"w":382,"h":331},
 	"rotated": false,
@@ -18,7 +10,7 @@
 },
 {
 	"filename": "moon.png",
-	"frame": {"x":0,"y":788,"w":800,"h":800},
+	"frame": {"x":0,"y":331,"w":800,"h":800},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
@@ -45,8 +37,8 @@
 	"version": "1.0",
 	"image": "main.png",
 	"format": "RGBA8888",
-	"size": {"w":800,"h":1588},
+	"size": {"w":800,"h":1131},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:aef96fe2038ebaba3f4c03eee0c71054:a80ab2b55eec118c46a05e2279f23b5a:03f91ab73e0f4667800419161e658c40$"
+	"smartupdate": "$TexturePacker:SmartUpdate:11c451f6394619f8e21b5a5fa9efb675:e7fbf950dd157e0c6a70f3c5884e584b:03f91ab73e0f4667800419161e658c40$"
 }
 }

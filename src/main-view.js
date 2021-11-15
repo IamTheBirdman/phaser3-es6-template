@@ -39,8 +39,7 @@ export class MainView extends Phaser.GameObjects.Container {
   }
 
   _buildLogo() {
-    const logo = this.scene.physics.add.image(100, 100, TEXTURE, "js-conf-logo.png");
-    logo.setScale(0.25);
+    const logo = this.scene.physics.add.image(100, 100, TEXTURE, "logo.png");
 
     logo.setVelocity(200, 200);
     logo.setBounce(1, 1);

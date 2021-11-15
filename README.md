@@ -8,5 +8,5 @@ You need to have Node.js installed to install dependencies and run scripts, usin
 
 ## Commands
 
-npm i - Install project dependencies
+npm i - Install project dependencies \n
 npm start - Run a web-server, which will run the project build
